@@ -4,8 +4,6 @@
 
 ## Preview
 
-[![Coming Soon Preview]](https://anik1612.github.io/LordGrace/)
-
 **[View Live Preview](https://anik1612.github.io/LordGrace/)**
 
 ## Status
